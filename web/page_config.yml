@@ -1,0 +1,14 @@
+title: InstantTTS Samples 
+email: audiooculto@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"  
+  InterSpeech 2024 InstantTTS Samples  
+baseurl: "/web" # the subpath of your site, e.g. /blog  
+url: "https://audiooculto.github.io" # the base hostname & protocol for your site, e.g. "https://your-username.github.io"  
+
+github_username:  audiooculto
+  
+# Build settings  
+markdown: kramdown  
+theme: minima  
+plugins:  
+  - jekyll-feed  
