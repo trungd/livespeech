@@ -1,0 +1,17 @@
+{
+    "test/wer/hubert-large-ls960-ft": 0.07760751247406006,
+    "test/wer/whisper-large-v2": 0.06783796846866608,
+    "test/per/wav2vec2-xlsr-53-espeak-cv-ft": 0.14860239624977112,
+    "test/cer/wav2vec2-base-960h": 0.04438568279147148,
+    "test/ss/spkrec-ecapa-voxceleb": 0.47645846009254456,
+    "test/ss/unispeech-sat-base-plus-sv": 0.9495393633842468,
+    "test/dnsmos": 3.72208309173584,
+    "test/num_samples": 148.0,
+    "test/avg_length_diff": 0.9722534418106079,
+    "test/avg_enroll_duration": 4.619256973266602,
+    "test/avg_full_enroll_duration": 7.688039302825928,
+    "test/avg_target_duration": 4.355404376983643,
+    "test/avg_output_duration": 4.506188869476318,
+    "test/rtf": 0.05095433071255684,
+    "test/latency": 0.0
+}
