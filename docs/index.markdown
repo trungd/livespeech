@@ -3,9 +3,9 @@ layout: page
 title: "LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes"
 --- 
 
-<p style="text-align: center">Trung Dang, David Aponte, Dung Tran, Kazuhito Koishida<br />Applied Sciences Group, Microsoft Corporation</p>
+<p style="text-align: center; font-style: italic"><a href="mailto:trungv.dang@outlook.com">Trung Dang</a>, David Aponte, Dung Tran, Kazuhito Koishida<br />Applied Sciences Group, Microsoft Corporation</p>
 
-<p style="text-align: center">[arXiv](https://arxiv.org/abs/2406.02897)</p>
+<p style="text-align: center">[<a href="https://arxiv.org/abs/2406.02897">arXiv</a>]</p>
 
 ### Abstract
 
